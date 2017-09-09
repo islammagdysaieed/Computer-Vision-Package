@@ -1,0 +1,9 @@
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe.config
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).pdb
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Form1.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Properties.Resources.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).csproj.GenerateResource.Cache
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).pdb

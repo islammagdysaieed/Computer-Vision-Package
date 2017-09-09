@@ -1,0 +1,42 @@
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe.config
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).pdb
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CVPackage.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Form1.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Properties.Resources.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CVPackage.csproj.GenerateResource.Cache
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).pdb
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.dll.config
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Core.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Math.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Math.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Statistics.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\DotImaging.Primitives2D.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Core.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Math.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Math.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Statistics.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe.config
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV lab1 (reading image).pdb
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.dll.config
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).exe
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\CV lab1 (reading image).pdb
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Core.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Math.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Math.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Statistics.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\DotImaging.Primitives2D.dll
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Core.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Extensions.Math.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Math.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\bin\Debug\Accord.Statistics.xml
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CVPackage.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Form1.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CV_lab1__reading_image_.Properties.Resources.resources
+D:\Academy\SC\Current Year\Second Term\Computer Vision\Codes\CV Package\CV lab1 (reading image)\CV lab1 (reading image)\obj\Debug\CVPackage.csproj.GenerateResource.Cache
